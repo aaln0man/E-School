@@ -1,0 +1,130 @@
+#sign-in{
+    background-color: #21B573;
+    color: white;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.top-items{
+    background-color: #F0FFF0;
+}
+.lorem{
+    color: #6C6B6B;
+}
+.home-bar{
+    background-color: #F0FFF0;
+}
+#learn{
+    color: #FD511A;
+}
+.schedule{
+    color: #21B573;
+}
+.get-started{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    height: 43px;
+    width: 153px;
+}
+.container{
+    padding-bottom: 50px;
+}
+.middle-items{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.col-md-3{
+    text-align: center;
+    border: none;
+    border-radius: 10px; 
+    height: 270px;
+    width: 270px;
+    padding-top: 50px;
+    background-color: #F8FFFB;
+    margin: 5px;
+}
+#sdt{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.middle-items{
+    color: #413960;
+}
+.course-items{
+    color: #413960;
+}
+.card-body{
+    text-align: initial;
+}
+.col-md-5{
+    text-align: center;
+    padding-left: 50px;
+}
+.col-md-7{
+    text-align: center;
+}
+.bottom-items{
+    background-color: #282531;
+    color: rgba(255, 255, 255, 1);
+}
+.col-md-6{
+    text-align: center;
+    margin-top: 50px;
+}
+.col-md-2{
+    text-align: initial;
+    margin-top: 50px;
+}
+.testimonial-items h2{
+    margin-bottom: 50px;
+
+}
+.testimonial-items{
+    text-align: center;
+
+}
+.col-md-8 p{
+    text-align: initial;
+}
+.col-md-4{
+    text-align: end;
+}
+.course-items{
+    text-align: center;
+}
+.course-items h2{
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    border-radius: 20px; 
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    color: #585859;
+}
+.card img{
+    padding: 10px;
+}
+.card-text{
+    color: #6C6B6B;
+}
+.buy-course-button{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    height: 35px;
+    width: 137px;
+}
+footer{
+    text-align: center;
+    background-color:#282531;
+    color: rgba(205, 205, 205, 1);
+
+}
